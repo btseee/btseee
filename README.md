@@ -26,7 +26,7 @@ Like My Work?
 - 🛠 &nbsp; I’m currently working with Nodejs, React, <br /> Mongodb, Typescript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; My personal projects are available on [Github](https://github.com/btseee).
-- 👾 &nbsp; Most of my work projects are company's private gits.
+- 👾 &nbsp; Most of my work projects are in company's private gits /Bitbucket, Gitlab/.
 - 📫 &nbsp; How to reach me: bbattseren88@gmail.com.
 - 📝 &nbsp; Checkout my [Resume](https://github.com/btseee/btseee/blob/master/CV.pdf).
 
@@ -44,6 +44,8 @@ Like My Work?
 <code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+<code><img height="27" src="https://github.com/github/explore/blob/main/topics/typescript/typescript.png" alt="typescript"></code>
+<code><img height="27" src="https://github.com/github/explore/blob/main/topics/angular/angular.png" alt="angular"></code>
 
 ### Projects and Dev Stuffs:
 
