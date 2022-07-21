@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Pavan Gandhi!](https://github.com/btseee/)
+## Hey 👋, I'm [Battseren Badral you can call me Tsee](https://github.com/btseee/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/btseku1125)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://tsee.mn/)
