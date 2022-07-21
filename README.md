@@ -9,9 +9,7 @@
 
 I'm a graduate in Software Engineer 🎓 from Mongolian University of Science and Technology 🏛. I'm a passionate learner who's always willing to learn and work across technologies and UI designing💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
 
-Joined Github on **2019**.
-
-Since then I pushed **1994**+ commits, opened **229**+ issues, submitted **265**+ pull requests, created **20**+ gists and contributed to **20**+ public repositories.
+Joined Github on **2019**..
 
 Like My Work?
 
