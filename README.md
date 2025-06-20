@@ -35,7 +35,7 @@ I'm a Software Engineer with 4+ years of experience in building scalable web and
 - 🔊 Mongolian Cyrillic TTS Engine (eSpeak-NG)
 - 💬 Lightweight TTS for Mongolian
 
-### Projects and Dev Stuffs:
+### 📈 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=btseee&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=btseee&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=btseee&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=btseee&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
